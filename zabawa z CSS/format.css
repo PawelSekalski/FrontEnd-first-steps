@@ -1,0 +1,10 @@
+h1 {border-bottom: 1px solid blue; text-decoration-color: red; font-style: ;}
+.tlo { background-color: beige; }
+footer {font-size: 11px; text-align: center}
+body {margin: 0; padding: 0; background-color: beige;  }
+#trzcionka { font-family:  verdana; margin: 0px 150px 0px 150px;}
+#znacznik1 a {text-decoration: none; color: white; margin-right: 50px;}
+#znacznik1 {background-color: black}
+#znacznik1 a:hover {background-color: white; color: blue}
+#znacznik2 a {text-decoration: none; text-decoration: underline; font-style: italic; color: black}
+span {color: ;}

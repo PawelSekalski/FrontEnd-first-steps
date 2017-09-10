@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dom>
+<wybrane>Wybrani:</wybrane>
+	<ludzie>
+		<tezeusz>
+			<imie>Tezeusz</imie>
+			<dom>Ateny</dom>
+			<rodzice>Posejdon, Ajtra</rodzice>
+			<wiek>10.000</wiek>
+		</tezeusz>
+		<odys wiek="8000">
+			<imie>Odys</imie>
+			<dom>Itaka</dom>
+			<rodzice>Laertes, Antykleia</rodzice>
+		</odys>
+	</ludzie>
+	<zwierzeta>
+		<gatunek>pies:</gatunek>
+			<imie_psa>Fąfel</imie_psa>
+			<pies wiek="5">
+		</pies>
+		<gatunek>kot:</gatunek>
+			<imie_kota>Schmee</imie_kota>
+			<kot wiek="~">
+		</kot>
+	</zwierzeta>
+</dom>
+

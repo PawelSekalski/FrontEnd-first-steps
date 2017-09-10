@@ -1,0 +1,12 @@
+body {font-family: "Mada"; }
+h1 {text-align: center; font-size: 2em }
+#tresc {margin: 0px 20px 0px 350px;  border-left: 1px solid black; text-align: left; padding-left: 10px;}
+#menu a:hover {background-color: black; color: white}
+#menu {position: fixed; padding-top: 10px; width: 300px;}
+#menu a {text-decoration: none;}
+#menu li { border-bottom: 1px solid gray;}
+li{ list-style-type: none; }
+a {color: inherit}
+.ilustracja { float:right; margin:10px; padding: 10px; border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;}
+.ilustracja p {text-align: center;}
+.wiersz {font-style: italic; font-size: 1.5em, font-family: "Times New Roman"; color: red; margin-left: 80px; }
